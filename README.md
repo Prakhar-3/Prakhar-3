@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey, World! 👋
+Prakhar here, an aspiring developer on a journey of continuous learning and creativity.
+Welcome to my GitHub playground! 🚀
 
-<!--
-**Prakhar-3/Prakhar-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- Basics in Java, Python
+- HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Advanced JS
+- Some projects based on HTML, CSS and JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Boat Clone]('https://github.com/Prakhar-3/Boat')
+- [Pepsi Front Page]('https://github.com/Prakhar-3/Pepsi')
+
+Let's connect and collaborate! Feel free to explore my projects and reach out for discussions or collaborations. Happy coding! 🌐
