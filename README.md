@@ -13,5 +13,6 @@ Welcome to my GitHub playground! 🚀
 ## 🚀 Featured Projects
 - [Boat Clone]('https://github.com/Prakhar-3/Boat')
 - [Pepsi Front Page]('https://github.com/Prakhar-3/Pepsi')
+[Netflix Clone]
 
 Let's connect and collaborate! Feel free to explore my projects and reach out for discussions or collaborations. Happy coding! 🌐
